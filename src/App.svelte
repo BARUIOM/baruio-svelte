@@ -8,4 +8,8 @@
     @tailwind base;
     @tailwind components;
     @tailwind utilities;
+
+    body {
+        @apply bg-dark;
+    }
 </style>
