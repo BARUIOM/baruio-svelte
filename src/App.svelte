@@ -3,13 +3,3 @@
         <div class="text-4xl text-red-700 font-bold">Hello World</div>
     </div>
 </main>
-
-<style global lang="postcss">
-    @tailwind base;
-    @tailwind components;
-    @tailwind utilities;
-
-    body {
-        @apply bg-dark;
-    }
-</style>

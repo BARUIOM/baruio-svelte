@@ -1,3 +1,5 @@
+import "./index.css";
+
 import "@fontsource/roboto";
 import "@fontsource/material-icons";
 import "@fontsource/material-icons-outlined";
